@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "auto_player",
+    "hearts",
+]
